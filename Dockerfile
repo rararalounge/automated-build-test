@@ -1,3 +1,3 @@
 FROM dockersamples/static-site
-ENV AUTHOR="rarara"
+ENV AUTHOR="rarara dayo"
 
